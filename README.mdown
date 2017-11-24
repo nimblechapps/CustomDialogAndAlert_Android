@@ -1,0 +1,38 @@
+# Alert Dialog And Custom Dialog For Android
+
+#### Introduction
+
+A Dialog is a small window that prompts the user to a decision or enter additional information. Some times in our application, if you wanted to ask the user about deciding between yes or no in response to any particular action taken by the user, by remaining in the same activity and without changing the screen, you can use Alert Dialog. If you need a step by step explanation of the topic, you can check our article here: [Alert Dialog And Custom Dialog For Android](https://insights.nimblechapps.com/app-development/android-app-development/alert-dialog-custom-dialog-android)
+
+#### Objectives
+
+1. Creating a simple Alert Dialog using AlertDialog.Builder.
+2. Creating a Custom Dialog with Custom Layout.
+
+#### Steps to follow
+
+ 1. Create a new project in Android Studio.
+ 2. Create layout in activity_main.xml.
+ 3. Create a layout resource file for custom Dialog.
+ 4. Now create an Alert Dialog using Alert.Builder.
+ 5. Now create a custom dialog.
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/09/Alert-Dialog-And-Custom-Dialog-For-Android.png)](https://insights.nimblechapps.com/app-development/android-app-development/alert-dialog-custom-dialog-android)
+
+This tutorial has been presented by Nimblechapps - The coolest [Android App Development Company](https://www.nimblechapps.com/android-app-development-company). Checkout our [Android app development portfolio](https://www.nimblechapps.com/portfolio/mobile-app-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [How to Integrate Dropbox with your Android APP and Perform CRUD Action](https://insights.nimblechapps.com/app-development/android-app-development/how-to-integrate-dropbox-with-your-android-app-and-perform-crud-action)
+ 2. [How To Use the Font Awesome Icon Pack in an Android](https://insights.nimblechapps.com/app-development/android-app-development/how-to-use-the-font-awesome-icon-pack-in-an-android)
+ 3. [Using MongoDB For Storing and Retrieving Data For Android](https://insights.nimblechapps.com/app-development/android-app-development/using-mongodb-storing-retrieving-data-android)
+ 4. [Integrate Firebase Push Notifications in Android Application](https://insights.nimblechapps.com/app-development/android-app-development/integrate-firebase-push-notifications-android-application)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
